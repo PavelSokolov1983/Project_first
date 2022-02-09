@@ -1,3 +1,39 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+    padding: 21px 121px 0 121px;
+    max-width: 1600px;
+    margin: 0 auto;
+} 
+
+.logo-mobile-black {
+    width: 112px;
+    height: 66px;
+}
+
+.data-line {
+    display: flex;
+}
+
+.data-line-section {
+    display: flex;
+    margin-top: 97px;
+    margin-right: 30px;
+}
+
+.data-image {
+    width: 22px;
+    height: 21px;
+    margin-right: 8px;
+}
+
+.data-text {
+    font-size: 20px;
+}
+
+
 h1 {
     font-size: 80px;
     line-height: 101.38%;
