@@ -4,7 +4,7 @@ body {
 
 .wrapper {
     padding: 21px 121px 0 121px;
-    max-width: 1600px;
+    max-width: 1440px;
     margin: 0 auto;
 } 
 
@@ -33,8 +33,72 @@ body {
     font-size: 20px;
 }
 
+.section-1-text-image {
+    display: flex;
+    position: relative;
+}
+
+.section-1-text {
+    width: 40%;
+    margin-top: 0;
+}
 
 h1 {
+    font-family: 'Roboto Slab', serif;
     font-size: 80px;
+    font-weight: 900;
     line-height: 101.38%;
+    margin-bottom: 0;
+}
+
+.section-1-text-2 {
+    font-size: 20px;
+    line-height: 150%;
+}
+
+.section-1-image {
+    position: absolute;
+    right: 125px;
+}
+
+.noroot-1, .ellipse-1 {
+    position: relative;
+}
+
+.noroot-1 {
+    width: 304px;
+    height: 356px;
+    z-index: 2;
+}
+
+.ellipse-1 {
+    width: 274px;
+    height: 41px;
+    position: absolute;
+    bottom: -15px;
+    right: 0;
+    z-index: 1
+}
+
+.section-1-tsitata-autor {
+    margin: 150px auto;
+    background: #1E4681;
+    border-radius: 5px;
+    width: 483.63px;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.section-1-tsitata {
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+    line-height: 130%;
+    color: #FFFFFF;
+}
+
+.section-1-autor {
+    font-size: 20px;
+    text-align: right;
+    color: #FFFFFF;
+    margin-top: 5px;
 }
