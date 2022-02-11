@@ -3,7 +3,7 @@ body {
 }
 
 .wrapper {
-    padding: 21px 121px 0 121px;
+    padding: 21px 121px 121px 121px;
     max-width: 1440px;
     margin: 0 auto;
 } 
@@ -101,4 +101,96 @@ h1 {
     text-align: right;
     color: #FFFFFF;
     margin-top: 5px;
+}
+
+h2 {
+    font-family: Roboto Slab;
+    font-weight: 900;
+    font-size: 55px;
+}
+
+.section-2-text-image {
+    display: flex;
+    position: relative;
+}
+
+.section-2-text {
+    font-size: 24px;
+    line-height: 150%;
+    width: 50%;
+}
+
+.section-2-image {
+    position: absolute;
+    right: 15px;
+}
+
+.noroot-2,.ellipse-2 {
+    position: relative;
+}
+
+.noroot-2 {
+    width: 314px;
+    height: 315px;
+    z-index: 2;
+}
+
+.ellipse-2 {
+    width: 366px;
+    height: 59px;
+    z-index: 1;
+    position: absolute;
+    right: -15px;
+    bottom: -24px;
+}
+
+.section-2-image2-text2 {
+    padding-top: 80px;
+    position: relative;
+}
+
+.section-2-image2 {
+    position: absolute;
+}
+
+.noroot-3, .ellipse-3 {
+    position: relative;
+}
+
+.noroot-3 {
+    width: 232px;
+    height: 203px;
+    z-index: 2;
+}
+
+.ellipse-3 {
+    width: 189px;
+    height: 32px;
+    z-index: 1;
+    position: absolute;
+    left: 30px;
+    bottom: -10px;
+
+}
+
+.section-2-text2 {
+    margin-left: 230px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.section-2-text2-block {
+    width: 150px;
+    margin-right: 95px;
+}
+
+.section-2-text2-1 {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.section-2-text2-2 {
+    font-size: 18px;
+    line-height: 130%;
 }
