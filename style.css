@@ -308,3 +308,104 @@ li {
     width: 32px;
     height: 31px;
 }
+
+.price {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 179px 121px;
+    background: #9DC9C8;
+}
+
+.fs25 {
+    font-size: 25px;
+}
+
+.price-course {
+    font-size: 80px;
+}
+
+.additional-info {
+    display: flex;
+}
+
+.additional-info-block {
+    width: 294px;
+    margin-right: 70px;
+    margin-top: 70px;
+}
+
+.additional-info-text {
+    font-size: 18px;
+    line-height: 101.38%;
+}
+
+footer {
+    max-width: 1440px;
+    margin: 0 auto;
+    background: #000000;
+    padding: 50px 121px;
+}
+
+.footer-block-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact-phone-mail {
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.icon-phone {
+    width: 27px;
+    height: 27px;
+}
+
+.icon-mail {
+    width: 27px;
+    height: 18px;
+    position: relative;
+    top: 5px;
+}
+
+.contact-text {
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 22px;   
+}
+
+.footer-block-2 {
+    display: flex;
+}
+
+.icon-instagram {
+    width: 33px;
+    height: 33px;
+}
+
+.icon-fb {
+    width: 32px;
+    height: 32px;
+}
+
+.icon-vk {
+    width: 35px;
+    height: 35px;
+}
+
+.icon-viber {
+    width: 34px;
+    height: 34px;
+}
+
+.marr20 {
+    margin-right: 20px;
+}
+
+.footer-block-3 {
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-top: 145px;
+}
