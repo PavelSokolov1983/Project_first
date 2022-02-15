@@ -233,3 +233,78 @@ li {
     font-size: 24px;
     line-height: 150%;
 }
+
+.program {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.program-scheme {
+    width: 399px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    margin-bottom: 41px;
+    margin-right: 37px;
+}
+
+.section-5-text1 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 130%;
+    margin-top: 11px;
+    margin-bottom: 32px;
+    margin-left: 20px;
+}
+
+.section-5-text2 {
+    font-size: 25px;
+    line-height: 130%;
+    margin-left: 20px;
+    margin-bottom: 23px;
+}
+
+.feedback {
+    background: #EFEFEF;
+    padding: 121px;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.feedback-card {
+    width: 791px;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    padding: 45px;
+    margin-top: 75px;
+}
+
+.feedback-text {
+    font-family: Roboto Slab;
+    font-size: 20px;
+    line-height: 150%;
+}
+
+.feedback-data {
+    display: flex;
+}
+
+.feedback-autor-photo {
+    width: 190px;
+    height: 169px;
+}
+
+.feedback-autor {
+    margin-left: 30px;
+}
+
+.feedback-autor-name {
+    font-family: Roboto Slab;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.feedback-autor-icon {
+    width: 32px;
+    height: 31px;
+}
