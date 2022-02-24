@@ -1,0 +1,371 @@
+@media (max-width: 991px) {
+
+    .wrapper {
+        padding: 35px;
+    } 
+
+    .logo-mobile-black {
+        width: 52.19px;
+        height: 30.75px;
+    }
+
+    .data-line {
+        margin-top: 45px;
+    }
+
+    .data-line-section {
+        margin-right: 15px;
+    }
+
+    .data-image {
+        width: 10px;
+        height: 9px;
+        margin-right: 5px;
+    }
+
+    .data-text {
+        font-size: 10px;
+    }
+
+    .section-1-text-image {
+        display: block;
+        position: relative;
+    }
+
+    .section-1-text {
+        width: 100%;
+        margin-top: 0;
+    }
+
+    h1 {
+        font-size: 37px;
+    }
+
+    .section-1-text-2 {
+        font-size: 10px;
+    }
+
+    .section-1-image {
+        width: 60%;
+        position: static;
+        padding-left: 50%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .noroot-1, .ellipse-1 {
+        position: relative;
+    }
+
+    .noroot-1 {
+        width: 141.68px;
+        height: 175.1px;
+        z-index: 2;
+    }
+
+    .ellipse-1 {
+        width: 127.68px;
+        height: 19.1px;
+        position: relative;
+        bottom: 10px;
+        right: -8px;
+        z-index: 1
+
+    }
+
+    .section-1-tsitata-autor {
+        margin: 35px 0;
+        border-radius: 2px;
+        width: 225px;
+        padding: 12px;
+    }
+
+    .section-1-tsitata {
+        font-size: 11px;
+    }
+
+    .section-1-autor {
+        font-size: 10px;
+    }
+
+    h2 {
+        font-size: 26px;
+    }
+
+    .section-2-text-image {
+        display: block;
+    }
+
+    .section-2-text {
+        font-size: 12px;
+        width: 100%;
+    }
+
+    .section-2-image {
+        position: static;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .noroot-2,.ellipse-2 {
+        position: relative;
+        margin: 0 auto;
+    }
+
+    .noroot-2 {
+        width: 170.55px;
+        height: 160.29px;
+        z-index: 2;
+    }
+
+    .ellipse-2 {
+        width: 170.55px;
+        height: 27.49px;
+        z-index: 1;
+        position: relative;
+        right: -3px;
+        bottom: 14px;
+    }
+
+    .section-2-image2-text2 {
+        padding-top: 80px;
+        position: relative;
+    }
+
+    .section-2-image2 {
+        display: none;
+        position: absolute;
+    }
+
+    .noroot-3, .ellipse-3 {
+        position: relative;
+    }
+
+    .noroot-3 {
+        width: 232px;
+        height: 203px;
+        z-index: 2;
+    }
+
+    .ellipse-3 {
+        width: 189px;
+        height: 32px;
+        z-index: 1;
+        position: absolute;
+        left: 30px;
+        bottom: -10px;
+
+    }
+
+    .section-2-text2 {
+        margin-left: 0;
+        margin-top: 40px;
+        display: flex;
+        flex-wrap: wrap;
+        /* justify-content: flex-start; */
+    }
+
+    .section-2-text2-block {
+        width: 120px;
+        margin-right: 30px;
+    }
+
+    .section-2-text2-1 {
+        font-size: 12px;
+    }
+
+    .section-2-text2-2 {
+        font-size: 10px;
+    }
+
+    .section-3 {
+        margin: 50px 0;
+    }
+
+    .section-3-text {
+        display: block;
+        width: 50%;
+        margin-top: 35px;
+    }
+
+    .section-3-text-block {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .section-3-text-1 {
+        font-size: 12px;
+    }
+
+    .section-3-text-2 {
+        font-size: 10px;
+    }
+
+    .section-4 {
+        margin: 50px 0;
+    }
+
+    ul {
+        width: 50%;
+    }
+
+    li {
+        font-size: 12px;
+    }
+
+    .program {
+        display: block;
+    }
+
+    .program-scheme {
+        width: 60%;
+        min-width: 185px;
+        box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+        border-radius: 45px;
+        margin: 0 auto;
+        margin-bottom: 25px;
+        padding-bottom: 10px;
+    }
+
+    .section-5-image {
+        width: 100%;
+    }
+
+    .section-5-text1 {
+        font-size: 14px;
+        margin-top: 11px;
+        margin-bottom: 10px;
+        margin-left: 20px;
+    }
+
+    .section-5-text2 {
+        font-size: 12px;
+    }
+
+    .feedback {
+        padding: 35px;
+        margin: 0 auto;
+    }
+
+    .feedback-card {
+        width: 80%;
+        box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+        border-radius: 30px;
+        padding: 21px;
+        margin-top: 75px;
+    }
+
+    .feedback-text {
+        font-size: 12px;
+    }
+
+    .feedback-autor-photo {
+        width: 80px;
+        height: 84px;
+    }
+
+    .feedback-autor {
+        margin-left: 30px;
+    }
+
+    .feedback-autor-name {
+        font-size: 14px;
+    }
+
+    .feedback-autor-icon {
+        width: 14.91px;
+        height: 17.2px;
+    }
+
+    .price {
+        margin: 0 auto;
+        padding: 50px 35px;
+    }
+
+    .fs25 {
+        font-size: 12px;
+    }
+
+    .price-course {
+        font-size: 37px;
+    }
+
+    .additional-info-block {
+        width: 50%;
+        margin-right: 0px;
+        margin-top: 35px;
+        padding-right: 30px;
+    }
+
+    .additional-info-text {
+        font-size: 10px;
+    }
+
+    footer {
+        padding: 25px 35px;
+    }
+
+    .footer-block-1 {
+        display: block;
+        justify-content: space-between;
+    }
+
+    .contact-phone-mail {
+        display: flex;
+        margin-bottom: 8px;
+    }
+
+    .icon-phone {
+        width: 12.58px;
+        height: 12.58px;
+    }
+
+    .icon-mail {
+        width: 12.58px;
+        height: 8.39px;
+        position: relative;
+        top: 5px;
+    }
+
+    .contact-text {
+        font-size: 12px;
+        color: #FFFFFF;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 22px;   
+    }
+
+    .footer-block-2 {
+        display: flex;
+        margin-top: 20px;
+    }
+
+    .icon-instagram {
+        width: 15.38px;
+        height: 15.38px;
+    }
+
+    .icon-fb {
+        width: 14.91px;
+        height: 14.91px;
+    }
+
+    .icon-vk {
+        width: 16.31px;
+        height: 16.31px;
+    }
+
+    .icon-viber {
+        width: 15.84px;
+        height: 15.84px;
+    }
+
+    .marr20 {
+        margin-right: 12px;
+    }
+
+    .footer-block-3 {
+        font-size: 10px;
+        margin-top: 45px;
+    }
+}
