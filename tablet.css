@@ -1,0 +1,300 @@
+@media (min-width: 992px) and (max-width: 1279px) {
+
+    .wrapper {
+        padding: 21px 70px;
+        margin: 0 auto;
+    } 
+
+    .logo-mobile-black {
+        width: 64.87px;
+        height: 38.23px;
+    }
+
+    .data-line {
+        margin-top: 56px;
+    }
+
+    .data-line-section {
+        margin-right: 15px;
+    }
+
+    .data-image {
+        width: 12px;
+        height: 12px;
+        margin-right: 5px;
+    }
+
+    .data-text {
+        font-size: 12px;
+    }
+
+    h1 {
+        font-size: 46px;
+    }
+
+    .section-1-text-2 {
+        font-size: 12px;
+    }
+
+    .section-1-image {
+        right: 142px;
+    }
+
+    .noroot-1 {
+        width: 176.07px;
+        height: 206.18px;
+    }
+
+    .ellipse-1 {
+        width: 158.69px;
+        height: 23.75px;
+        bottom: -7.5px;
+    }
+
+    .section-1-tsitata-autor {
+        margin: 102px auto;
+        border-radius: 2.89583px;
+        width: 280.11px;
+        padding: 15px;
+    }
+
+    .section-1-tsitata {
+        font-size: 14px;
+    }
+
+    .section-1-autor {
+        font-size: 12px;
+    }
+
+    h2 {
+        font-size: 32px;
+    }
+
+    .section-2-text {
+        font-size: 14px;
+    }
+
+    .section-2-image {
+        position: absolute;
+        right: 15px;
+    }
+
+    .noroot-2 {
+        width: 181.86px;
+        height: 182.44px;
+    }
+
+    .ellipse-2 {
+        width: 211.98px;
+        height: 34.17px;
+        right: -15px;
+        bottom: -14px;
+    }
+
+    .section-2-image2-text2 {
+        padding-top: 50px;
+    }
+
+    .noroot-3 {
+        width: 134.37px;
+        height: 117.57px;
+    }
+
+    .ellipse-3 {
+        width: 109.46px;
+        height: 18.53px;
+        left: 20px;
+        bottom: -5px;
+    }
+
+    .section-2-text2 {
+        margin-left: 180px;
+        margin-top: 20px;
+    }
+
+    .section-2-text2-block {
+        width: 90px;
+        margin-right: 55px;
+    }
+
+    .section-2-text2-1 {
+        font-size: 15px;
+    }
+
+    .section-2-text2-2 {
+        font-size: 11px;
+    }
+
+    .section-3 {
+        margin: 100px 0;
+    }
+
+    .section-3-text {
+        margin-top: 50px;
+    }
+
+    .section-3-text-block {
+        width: 170px;
+        margin-right: 60px;
+    }
+
+    .section-3-text-1 {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+
+    .section-3-text-2 {
+        font-size: 11px;
+    }
+
+    .section-4 {
+        margin: 100px 0;
+    }
+
+    li {
+        font-size: 14px;
+    }
+
+    .program {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .program-scheme {
+        width: calc(100%/3 - 20px);
+        min-width: 230px;
+        box-shadow: 0.579167px 0.579167px 8.6875px rgba(0, 0, 0, 0.25);
+        border-radius: 17.375px;
+        margin-bottom: 30px;
+        margin-right: 20px;
+    }
+
+    .section-5-image {
+        width: 100%;
+    }
+
+    .section-5-text1 {
+        font-size: 17px;
+        margin-top: 11px;
+        margin-bottom: 15px;
+        margin-left: 20px;
+    }
+
+    .section-5-text2 {
+        font-size: 14px;
+    }
+
+    .feedback {
+        background: #EFEFEF;
+        padding: 70px;
+    }
+
+    .feedback-card {
+        width: 458.12px;
+        border-radius: 30px;
+        padding: 25px;
+        margin-top: 35px;
+    }
+
+    .feedback-text {
+        font-size: 12px;
+    }
+
+    .feedback-autor-photo {
+        width: 110.04px;
+        height: 97.88px;
+    }
+
+    .feedback-autor {
+        margin-left: 30px;
+    }
+
+    .feedback-autor-name {
+        font-size: 17px;
+    }
+
+    .feedback-autor-icon {
+        width: 18.53px;
+        height: 17.95px;
+    }
+
+    .price {
+        padding: 100px 70px;
+    }
+
+    .fs25 {
+        font-size: 14px;
+    }
+
+    .price-course {
+        font-size: 46px;
+    }
+
+    .additional-info-block {
+        width: 25%;
+        margin-right: 40px;
+        margin-top: 40px;
+    }
+
+    .additional-info-text {
+        font-size: 10px;
+    }
+
+    footer {
+        padding: 30px 70px;
+    }
+
+    .contact-phone-mail {
+        display: flex;
+        margin-bottom: 20px;
+    }
+
+    .icon-phone {
+        width: 15.64px;
+        height: 15.64px;
+    }
+
+    .icon-mail {
+        width: 15.64px;
+        height: 10.43px;
+        top: 4px;
+    }
+
+    .contact-text {
+        font-size: 14px;
+        margin-left: 15px;   
+    }
+
+    .footer-block-2 {
+        display: flex;
+    }
+
+    .icon-instagram {
+        width: 19.11px;
+        height: 19.11px;
+    }
+
+    .icon-fb {
+        width: 18.53px;
+        height: 18.53px;
+    }
+
+    .icon-vk {
+        width: 20.27px;
+        height: 20.27px;
+    }
+
+    .icon-viber {
+        width: 19.69px;
+        height: 19.69px;
+    }
+
+    .marr20 {
+        margin-right: 10px;
+    }
+
+    .footer-block-3 {
+        font-size: 10px;
+        margin-top: 85px;
+    }
+}

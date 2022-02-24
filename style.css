@@ -15,11 +15,11 @@ body {
 
 .data-line {
     display: flex;
+    margin-top: 97px;
 }
 
 .data-line-section {
     display: flex;
-    margin-top: 97px;
     margin-right: 30px;
 }
 
@@ -240,11 +240,16 @@ li {
 }
 
 .program-scheme {
-    width: 399px;
+    width: calc(100%/3 - 40px);
+    min-width: 300px;
     box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
     border-radius: 30px;
     margin-bottom: 41px;
     margin-right: 37px;
+}
+
+.section-5-image {
+    width: 100%;
 }
 
 .section-5-text1 {
